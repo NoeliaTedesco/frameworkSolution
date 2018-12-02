@@ -210,7 +210,7 @@ public class ReportConfiguration {
 			testContentObjetiveDescription = obj.getTestContentObjetiveDescription();
 			String test = "";
 		} catch (Exception ex) {
-			Log.info(ex.getMessage());
+			log.Log.info(ex.getMessage());
 			System.out.println(ex.getMessage());
 		}
 	}

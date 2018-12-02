@@ -39,7 +39,7 @@ public class emailSender {
 			emailConfiguration = (emailSenderConfiguration) unmarsheller.unmarshal(file);
 			
 		}catch (Exception ex) {
-		Log.info(ex.getMessage());
+		log.Log.info(ex.getMessage());
 		}		
 	}
 	

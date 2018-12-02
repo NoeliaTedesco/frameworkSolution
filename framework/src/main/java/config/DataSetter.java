@@ -20,7 +20,7 @@ public class DataSetter {
 			Unmarshaller jabxUnmarshaller = jaxbContext.createUnmarshaller();
 			configuration = (Configuration) jabxUnmarshaller.unmarshal(file);
 		}catch (Exception ex){
-			Log.info(ex.getMessage());
+			log.Log.info(ex.getMessage());
 			System.out.println(ex.getStackTrace());
 		}
 	}

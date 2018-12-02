@@ -11,6 +11,5 @@ public class Regression extends Hook {
 		@Test
 	    public void generateInvitation() {
 	       GenerarInvitacionStep.Run(rol, testName.getMethodName());
-
 	    }
 }

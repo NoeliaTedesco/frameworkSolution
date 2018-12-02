@@ -22,7 +22,7 @@ public class JsonHelper {
 			mapper = new ObjectMapper();
 			mapper.writeValue(file, obj);
 		} catch (Exception ex) {
-			Log.info(ex.getMessage());
+			log.Log.info(ex.getMessage());
 		}
 
 	}
@@ -34,7 +34,7 @@ public class JsonHelper {
 			Objects tmp = mapper.readValue(file, Objects.class);
 			object = tmp;
 		} catch (Exception ex) {
-			Log.info(ex.getMessage());
+			log.Log.info(ex.getMessage());
 		}
 	}
 
@@ -45,7 +45,7 @@ public class JsonHelper {
 			mapper.writeValue(file, object);
 
 		} catch (Exception ex) {
-			Log.info(ex.getMessage());
+			log.Log.info(ex.getMessage());
 		}
 
 	}

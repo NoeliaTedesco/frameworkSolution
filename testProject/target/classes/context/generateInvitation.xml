@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <objects>
     <asignado>Noelia</asignado>
-    <estado>Estado</estado>
+    <estado>Pasa</estado>
     <nombreDePrueba>Prueba N°1</nombreDePrueba>
-    <pasos/>
+    <pasos>
+        <entry>
+            <key>generateInvitation</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>testName</key>
+            <value>Pasa</value>
+        </entry>
+    </pasos>
     <prioridad>Alta</prioridad>
     <referencia>Referencia</referencia>
     <sprint>Sprint 11</sprint>
     <tiempoFinal>TiempoFinal</tiempoFinal>
-    <tiempoInicio>15436933124</tiempoInicio>
+    <tiempoInicio>15437242769</tiempoInicio>
     <tipoDePrueba>Regresion</tipoDePrueba>
     <usuario>
         <email>cmotest1@cmo.com</email>

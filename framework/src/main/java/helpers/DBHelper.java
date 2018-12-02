@@ -28,7 +28,7 @@ public class DBHelper {
 					conx.close();
 				}
 			} catch (Exception e) {
-				Log.info(e.getMessage());
+				log.Log.info(e.getMessage());
 			}
 		}
 	}
@@ -37,7 +37,7 @@ public class DBHelper {
 		try {
 			conx.close();
 		} catch (Exception ex) {
-			Log.info(ex.getMessage());
+			log.Log.info(ex.getMessage());
 		}
 	}
 	

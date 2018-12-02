@@ -122,3 +122,12 @@
 2018-12-02 00:31:17,685 INFO  [Log] Start test: generateInvitation 
 2018-12-02 00:31:17,687 INFO  [Log] Navegar al sitio 
 2018-12-02 00:31:38,278 INFO  [Log] End test: generateInvitation 
+2018-12-02 01:16:29,306 INFO  [Log] Start test: generateInvitation 
+2018-12-02 01:16:29,308 INFO  [Log] Navegar al sitio 
+2018-12-02 01:16:44,298 INFO  [Log] testName: Pasa 
+2018-12-02 01:16:44,298 INFO  [Log] End test: generateInvitation 
+2018-12-02 01:16:47,520 INFO  [Log] C:\Report\myReport.pdf (La operación solicitada no se puede realizar en un archivo con una sección asignada a usuario abierta) 
+2018-12-02 01:17:56,958 INFO  [Log] Start test: generateInvitation 
+2018-12-02 01:17:56,960 INFO  [Log] Navegar al sitio 
+2018-12-02 01:18:12,234 INFO  [Log] generateInvitation: Pasa 
+2018-12-02 01:18:12,234 INFO  [Log] End test: generateInvitation 

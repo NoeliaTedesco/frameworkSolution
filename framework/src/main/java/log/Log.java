@@ -2,7 +2,7 @@ package log;
 
 import org.apache.log4j.Logger;
 import org.apache.log4j.xml.DOMConfigurator;
-
+import helpers.StepHelper;
 import helpers.XMLHelper;
 
 import static config.DataSetter.configuration;
@@ -17,23 +17,24 @@ public class Log {
 
 	public static void SuccessStep(String step) {
 		try {
-			String status = "Pasa";
+			String status = "Exitoso";
 			XMLHelper.object.getPasos().put(step, status);
 			XMLHelper.object.setEstado(status);
 			logger.info(step + ": " + status);
 		} catch (Exception ex) {
-
+			log.Log.info(ex.getMessage());
 		}
 	}
 
 	public static void FailStep(String step) {
 		try {
-			String status = "Falla";
+			String status = "Error";
 			XMLHelper.object.getPasos().put(step, status);
 			XMLHelper.object.setEstado(status);
+			StepHelper.takeScreenShot(base.Base.driver, step);
 			logger.info(step + ": " + status);
 		} catch (Exception ex) {
-
+			log.Log.info(ex.getMessage());
 		}
 	}
 

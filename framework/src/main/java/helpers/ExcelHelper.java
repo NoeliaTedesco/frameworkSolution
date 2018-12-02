@@ -43,7 +43,7 @@ public class ExcelHelper {
 			return excelFile;
 		} catch (Exception ex) {
 			System.out.println(ex.getMessage());
-			Log.info(ex.getMessage());
+			log.Log.info(ex.getMessage());
 		}
 		return null;
 	}
@@ -55,7 +55,7 @@ public class ExcelHelper {
 				System.out.println(datos.get(i).values());
 			}
 		} catch (Exception ex) {
-			Log.info(ex.getMessage());
+			log.Log.info(ex.getMessage());
 		}
 	}
 

@@ -42,7 +42,7 @@ public class StepHelper {
 				
 			}
 		}catch(Exception ex) {
-			Log.info(ex.getMessage());
+		log.Log.info(ex.getMessage());
 		}
 	}
 }
