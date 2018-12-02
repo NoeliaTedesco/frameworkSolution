@@ -50,7 +50,7 @@ public class Report {
 			addTestContent(document);
 			document.close();
 		} catch (Exception e) {
-			e.printStackTrace();
+			log.Log.info(e.getMessage());
 		}
 	}
 

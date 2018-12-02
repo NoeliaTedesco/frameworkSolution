@@ -209,7 +209,6 @@ public class ReportConfiguration {
 			testContentTestDescription = obj.getTestContentTestDescription();
 			testContentObjetiveDescription = obj.getTestContentObjetiveDescription();
 			String test = "";
-			Report.generatePdfReport();
 		} catch (Exception ex) {
 			Log.info(ex.getMessage());
 			System.out.println(ex.getMessage());

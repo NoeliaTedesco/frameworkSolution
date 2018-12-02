@@ -42,9 +42,10 @@ public class Hook extends InitilizeHook {
 	@AfterClass
 	public static void tearDownClass() {
 		closeBrowser();
-		closeConfiguration();
 		closeReport();
 		closeDelivery();
+		closeConfiguration();
+		
 		
 		
 	}

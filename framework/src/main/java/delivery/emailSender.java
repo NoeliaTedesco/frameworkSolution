@@ -79,6 +79,7 @@ public class emailSender {
         	String filename = DataSetter.configuration.getReportRepository();
         	DataSource source = new FileDataSource(filename);
         	messageBodyPart.setDataHandler(new DataHandler(source));
+            messageBodyPart.setFileName("Report.pdf");
         	multipart.addBodyPart(messageBodyPart);
         	message.setContent(multipart);
         	Transport.send(message);  
