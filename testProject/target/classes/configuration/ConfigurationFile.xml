@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<configuration>
+    <ambiente_desarrollo>https://dconsultamedica.osde.com.ar</ambiente_desarrollo>
+    <ambiente_homologacion>https://cconsultamedica.osde.com.ar</ambiente_homologacion>
+    <ambiente_testing>https://tconsultamedica.osde.com.ar</ambiente_testing>
+    <browser>Chrome</browser>
+    <chromeDriverPath>C:/ChromeDriver/chromedriver.exe</chromeDriverPath>
+	<IEDriverPath>C:/ChromeDriver/chromedriver.exe</IEDriverPath>
+    <delivery>False</delivery>
+    <imagePath>C:/screenshot</imagePath>
+    <imageRepository>C:/imageRepository</imageRepository>
+    <log4jPath>C:/Users/Noelia/workspace/frameworkSolution/framework/src/log4j.xml</log4jPath>
+    <reportPath>C:/Users/Noelia/workspace/frameworkSolution/framework/src/main/java/report/JReportAdvancedConfiguration.xml</reportPath>
+    <reportRepository>C:/Report/myReport.pdf</reportRepository>
+    <deliveryPath>C:/Users/Noelia/workspace/frameworkSolution/framework/src/main/java/delivery/emailSenderConfiguration.xml</deliveryPath>
+</configuration>

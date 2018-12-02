@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<objects>
+    <asignado>Noelia</asignado>
+    <estado>Estado</estado>
+    <nombreDePrueba>Prueba N°1</nombreDePrueba>
+    <pasos/>
+    <prioridad>Alta</prioridad>
+    <referencia>Referencia</referencia>
+    <sprint>Sprint 11</sprint>
+    <tiempoFinal>TiempoFinal</tiempoFinal>
+    <tiempoInicio>15436954280</tiempoInicio>
+    <tipoDePrueba>Regresion</tipoDePrueba>
+    <usuario>
+        <email>cmotest1@cmo.com</email>
+        <password>CMOTEST1</password>
+    </usuario>
+    <version>1.0.0</version>
+</objects>

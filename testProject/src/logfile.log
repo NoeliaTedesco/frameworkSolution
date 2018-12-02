@@ -1,0 +1,84 @@
+2018-12-01 08:12:06,579 INFO  [Log] Navegar al sitio 
+2018-12-01 08:17:47,342 INFO  [Log] Navegar al sitio 
+2018-12-01 08:43:26,000 INFO  [Log] Navegar al sitio 
+2018-12-01 12:11:22,355 INFO  [Log] Navegar al sitio 
+2018-12-01 13:30:56,685 INFO  [Log]  
+2018-12-01 13:31:03,099 INFO  [Log] Navegar al sitio 
+2018-12-01 13:32:19,578 INFO  [Log]  
+2018-12-01 13:32:25,425 INFO  [Log] Navegar al sitio 
+2018-12-01 13:36:47,726 INFO  [Log]  
+2018-12-01 13:36:54,174 INFO  [Log] Navegar al sitio 
+2018-12-01 13:39:19,632 INFO  [Log]  
+2018-12-01 13:39:26,098 INFO  [Log] Navegar al sitio 
+2018-12-01 13:40:44,297 INFO  [Log]  
+2018-12-01 13:41:42,856 INFO  [Log]  
+2018-12-01 13:42:53,685 INFO  [Log]  
+2018-12-01 13:45:14,976 INFO  [Log]  
+2018-12-01 13:46:11,697 INFO  [Log]  
+2018-12-01 13:48:29,483 INFO  [Log]  
+2018-12-01 13:55:53,990 INFO  [Log]  
+2018-12-01 13:56:37,900 INFO  [Log]  
+2018-12-01 13:59:32,692 INFO  [Log] IOException while sending message 
+2018-12-01 14:03:41,023 INFO  [Log] IOException while sending message 
+2018-12-01 14:04:10,373 INFO  [Log] IOException while sending message 
+2018-12-01 14:14:02,713 INFO  [Log] IOException while sending message 
+2018-12-01 14:15:11,725 INFO  [Log] IOException while sending message 
+2018-12-01 14:19:49,698 INFO  [Log] Navegar al sitio 
+2018-12-01 14:50:35,839 INFO  [Log] Navegar al sitio 
+2018-12-01 14:54:38,841 INFO  [Log] Navegar al sitio 
+2018-12-01 15:21:34,050 INFO  [Log] Navegar al sitio 
+2018-12-01 15:32:18,805 INFO  [Log] Navegar al sitio 
+2018-12-01 15:35:24,920 INFO  [Log] Navegar al sitio 
+2018-12-01 15:35:33,800 INFO  [Log]  
+2018-12-01 15:37:18,864 INFO  [Log] Navegar al sitio 
+2018-12-01 16:30:50,950 INFO  [Log] Navegar al sitio 
+2018-12-01 16:34:50,425 INFO  [Log] Navegar al sitio 
+2018-12-01 16:37:55,046 INFO  [Log] Navegar al sitio 
+2018-12-01 16:40:04,093 INFO  [Log] Navegar al sitio 
+2018-12-01 16:41:52,469 INFO  [Log] Navegar al sitio 
+2018-12-01 16:52:23,545 INFO  [Log] Navegar al sitio 
+2018-12-01 16:54:33,812 INFO  [Log] Start test: generateInvitation 
+2018-12-01 16:54:33,814 INFO  [Log] Navegar al sitio 
+2018-12-01 16:58:06,282 INFO  [Log] Start test: generateInvitation 
+2018-12-01 16:58:06,284 INFO  [Log] Navegar al sitio 
+2018-12-01 16:58:13,202 INFO  [Log] End test: generateInvitation 
+2018-12-01 17:00:09,871 INFO  [Log] Start test: generateInvitation 
+2018-12-01 17:00:09,872 INFO  [Log] Navegar al sitio 
+2018-12-01 17:00:16,520 INFO  [Log] End test: generateInvitation 
+2018-12-01 17:01:23,283 INFO  [Log] Start test: generateInvitation 
+2018-12-01 17:01:23,285 INFO  [Log] Navegar al sitio 
+2018-12-01 17:01:30,291 INFO  [Log] End test: generateInvitation 
+2018-12-01 17:04:57,106 INFO  [Log] Start test: generateInvitation 
+2018-12-01 17:04:57,108 INFO  [Log] Navegar al sitio 
+2018-12-01 17:05:07,496 INFO  [Log] End test: generateInvitation 
+2018-12-01 17:07:27,567 INFO  [Log] Start test: generateInvitation 
+2018-12-01 17:07:27,568 INFO  [Log] Navegar al sitio 
+2018-12-01 17:07:33,590 INFO  [Log] End test: generateInvitation 
+2018-12-01 17:07:34,843 INFO  [Log]  
+2018-12-01 17:08:04,805 INFO  [Log] Start test: generateInvitation 
+2018-12-01 17:08:04,805 INFO  [Log] Navegar al sitio 
+2018-12-01 17:08:14,148 INFO  [Log] End test: generateInvitation 
+2018-12-01 17:08:15,150 INFO  [Log]  
+2018-12-01 17:08:52,110 INFO  [Log] Start test: generateInvitation 
+2018-12-01 17:08:52,111 INFO  [Log] Navegar al sitio 
+2018-12-01 17:08:58,409 INFO  [Log] End test: generateInvitation 
+2018-12-01 17:09:15,798 INFO  [Log]  
+2018-12-01 17:10:23,526 INFO  [Log] Start test: generateInvitation 
+2018-12-01 17:10:23,528 INFO  [Log] Navegar al sitio 
+2018-12-01 17:10:29,729 INFO  [Log] End test: generateInvitation 
+2018-12-01 17:13:15,330 INFO  [Log] Start test: generateInvitation 
+2018-12-01 17:13:15,331 INFO  [Log] Navegar al sitio 
+2018-12-01 17:13:21,594 INFO  [Log] End test: generateInvitation 
+2018-12-01 17:13:39,236 INFO  [Log]  
+2018-12-01 17:14:15,593 INFO  [Log] Start test: generateInvitation 
+2018-12-01 17:14:15,605 INFO  [Log] Navegar al sitio 
+2018-12-01 17:14:21,993 INFO  [Log] End test: generateInvitation 
+2018-12-01 17:14:23,203 INFO  [Log]  
+2018-12-01 17:14:54,923 INFO  [Log] Start test: generateInvitation 
+2018-12-01 17:14:54,924 INFO  [Log] Navegar al sitio 
+2018-12-01 17:15:01,844 INFO  [Log] End test: generateInvitation 
+2018-12-01 17:17:08,087 INFO  [Log] Start test: generateInvitation 
+2018-12-01 17:17:08,088 INFO  [Log] Navegar al sitio 
+2018-12-01 17:17:14,430 INFO  [Log] End test: generateInvitation 
+2018-12-01 17:17:15,499 INFO  [Log]  
+2018-12-01 17:18:37,243 INFO  [Log]  

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<emailSenderConfiguration>
+	<attachedFilePath>C:/Report/</attachedFilePath>
+	<emailGroup>tedesco.noelia@gmail.com</emailGroup>
+	<emailFrom>alejandra.noblet@gmail.com</emailFrom>
+	<mailAuth>true</mailAuth>
+	<mailStarttls>true</mailStarttls>
+	<smptHost>smtp.gmail.com</smptHost>
+	<port>587</port>
+	<user>alejandra.noblet@gmail.com</user>
+	<password>Ch0c0late2</password>
+</emailSenderConfiguration>
