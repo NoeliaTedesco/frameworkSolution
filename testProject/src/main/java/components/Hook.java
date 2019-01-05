@@ -1,12 +1,12 @@
 package components;
 
 import initializer.InitilizeHook;
-import org.junit.AfterClass;
-import org.junit.After;
-import org.junit.Before;
-import org.junit.BeforeClass;
+import org.testng.annotations.AfterClass;
+import org.testng.annotations.AfterSuite;
 import org.junit.Rule;
 import org.junit.rules.TestName;
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.BeforeSuite;
 
 import config.DataSetter;
 
@@ -18,7 +18,7 @@ public class Hook extends InitilizeHook {
 	public Hook() {
 	}
 	
-	@BeforeClass
+	@BeforeSuite
 	public static void setUpClass() {
 		openConfiguration();
 		openLogger();
@@ -26,20 +26,20 @@ public class Hook extends InitilizeHook {
 		openReport();
 	}
 	
-	@Before
+	@BeforeClass
 	public void setUp() {
 		openBrowser();
 		openContextData(testName.getMethodName());
 		
 	}
 	
-	@After
+	@AfterClass
 	public void tearDown() {
 		closeContextData(testName.getMethodName());
 		
 	}
 	
-	@AfterClass
+	@AfterSuite
 	public static void tearDownClass() {
 		closeBrowser();
 		closeReport();

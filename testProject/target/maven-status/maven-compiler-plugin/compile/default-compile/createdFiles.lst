@@ -1,0 +1,6 @@
+steps\GenerarInvitacionStep.class
+tests\Regression.class
+pages\LoginPage.class
+components\Hook.class
+pages\HomePage.class
+pages\InvitationPage.class

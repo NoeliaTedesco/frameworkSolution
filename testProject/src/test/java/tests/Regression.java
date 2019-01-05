@@ -1,6 +1,8 @@
 package tests;
 
-import org.junit.Test;
+
+import org.testng.annotations.Test;
+
 import components.Hook;
 import steps.GenerarInvitacionStep;
 
@@ -12,4 +14,9 @@ public class Regression extends Hook {
 	    public void generateInvitation() {
 	       GenerarInvitacionStep.Run(rol, testName.getMethodName());
 	    }
+		
+		@Test
+		public void prueba() {
+			System.out.println("ALO");
+		}
 }

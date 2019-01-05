@@ -211,7 +211,6 @@ public class ReportConfiguration {
 			String test = "";
 		} catch (Exception ex) {
 			log.Log.info(ex.getMessage());
-			System.out.println(ex.getMessage());
 		}
 	}
 	
