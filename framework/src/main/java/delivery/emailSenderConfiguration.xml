@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <emailSenderConfiguration>
-	<attachedFilePath>C:/Report/</attachedFilePath>
+	<attachedFilePath>C:/Report/MyReport.pdf</attachedFilePath>
 	<emailGroup>tedesco.noelia@gmail.com</emailGroup>
-	<emailFrom>alejandra.noblet@gmail.com</emailFrom>
+	<emailFrom>casillaprosam@gmail.com</emailFrom>
 	<mailAuth>true</mailAuth>
 	<mailStarttls>true</mailStarttls>
 	<smptHost>smtp.gmail.com</smptHost>
 	<port>587</port>
-	<user>alejandra.noblet@gmail.com</user>
-	<password>Ch0c0late2</password>
+	<user>casillaprosam@gmail.com</user>
+	<password>Intranet001</password>
 </emailSenderConfiguration>
